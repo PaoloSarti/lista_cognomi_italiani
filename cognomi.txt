@@ -1950,6 +1950,7 @@ Belli
 Bellia
 Belliboni
 Bellina
+Bellinato
 Bellincioni
 Bellini
 Bellino
@@ -4438,6 +4439,7 @@ Carlin
 Carlini
 Carlino
 Carlomagno
+Carlone
 Carloni
 Carlucci
 Carmela
@@ -6505,6 +6507,7 @@ D'Ambrosi
 D'Ambrosio
 D'Ambruosi
 D'Ambruoso
+D'Amelio
 D'Amici
 D'Amicis
 D'Amico
